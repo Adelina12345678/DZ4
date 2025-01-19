@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="DZ4">
-      <change afterPath="$PROJECT_DIR$/data/convertor.json" afterDir="false" />
+    <list default="true" id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="DZ5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/home_works.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/home_works.js" afterDir="false" />
     </list>
@@ -134,6 +133,7 @@
       <workItem from="1737306757258" duration="21000" />
       <workItem from="1737306794300" duration="11000" />
       <workItem from="1737306817725" duration="49000" />
+      <workItem from="1737306890259" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="DZ4">
       <option name="closed" value="true" />
@@ -159,7 +159,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736957304065</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DZ5">
+      <option name="closed" value="true" />
+      <created>1737307033010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737307033010</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DZ5">
+      <option name="closed" value="true" />
+      <created>1737307218353</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737307218354</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DZ5">
+      <option name="closed" value="true" />
+      <created>1737307266059</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737307266059</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +191,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DZ4" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ4" />
+    <MESSAGE value="DZ5" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ5" />
   </component>
 </project>
