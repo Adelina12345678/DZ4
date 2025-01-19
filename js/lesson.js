@@ -1,5 +1,3 @@
-
-
 // CONVERTER
 const somInput = document.querySelector('#som')
 const usdInput = document.querySelector('#usd')
